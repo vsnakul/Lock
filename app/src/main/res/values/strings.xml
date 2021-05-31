@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lock</string>
+    <string name="google_maps_api_key">AIzaSyBAqVV3uM3kwKUPH7o8n6ix99krdcRDJv0</string>
+    <string name="login">Login</string>
+    <string name="log_in_capital">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="required">Required *</string>\
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="sign_up_message">No Account Yet ? </string>
+    <string name="register">Register</string>
+    <string name="signup">Sign Up</string>
+    <string name="retype">Retype Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="sign_up_captial">SIGN UP</string>
+    <string name="email_intent_message">A Mail has been sent to your email id.Click the link on the mail to verify</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="inside_search_bar"><font size="10">Locate Stations by Place</font></string>
+    <string name="price_warning">Note that the price we calculated is
+        based on the bike you selected and the distance you are about to travel.If you feel like price is not within your limit try changing the bike or locations
+    </string>
+    <string name="messsage_hint">Type your message</string>
+    <string name="search">This is what we found</string>
+</resources>
